@@ -182,5 +182,5 @@ sound.stop();
       
     }
   }
-  window.focus();
+
 }
